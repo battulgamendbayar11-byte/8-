@@ -1,0 +1,6 @@
+{
+  "name": "Universal Anatomy 3D",
+  "description": "Interactive bilingual (Mongolian and English) 3D biological anatomy atlas with multi-part procedural organisms, exploded view layer separation, and floating 3D organ labels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
